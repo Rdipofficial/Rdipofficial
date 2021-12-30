@@ -23,7 +23,7 @@ Programmer | Content Creator | Learner
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **MahbubBengali@gmail.com**
+- 📫 How to reach me **admin@diputech.xyz**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
@@ -69,10 +69,7 @@ Programmer | Content Creator | Learner
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rdipofficial&show_icons=true&locale=en" alt="RDIP OFFICIAL" /></p>
 
-[website]: https://TechHelpBD.com
-[facebook]: https://facebook.com/MahbubDev
-[twitter]: https://twitter.com/mahbubdev
-[youtube]: https://youtube.com/TechHelpBangladesh
-[instagram]: https://instagram.com/mahbubdev/
-[linkedin]: https://linkedin.com/in/mahbubdev
-[telegram]: https://t.me/TechHelpBangladesh
+[website]: https://diputech.xyz
+[youtube]: https://youtube.com/RajdeepOfficial
+[instagram]: https://instagram.com/dipugamingwith/
+[telegram]: https://t.me/Diputechteam
